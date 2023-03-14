@@ -13,7 +13,7 @@ verbtypes = ['godan','ichiban','suru']
 adjectives = ['い adjective', 'な adjective']
 
 address = 'https://api.wanikani.com/v2'
-token = '8c6f5c7d-12ae-4201-a805-f791521ec135'
+token = 'YOUR TOKEN HERE'
 headers = {
     'object': 'vocabulary',
     'Authorization': f'Bearer {token}'
